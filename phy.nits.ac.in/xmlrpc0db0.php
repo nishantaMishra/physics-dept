@@ -2,12 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://cs.nits.ac.in</homePageLink>
+    <homePageLink>http://phy.nits.ac.in</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://cs.nits.ac.in/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://cs.nits.ac.in/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://cs.nits.ac.in/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://cs.nits.ac.in/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://phy.nits.ac.in/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://phy.nits.ac.in/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://phy.nits.ac.in/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://phy.nits.ac.in/xmlrpc.php" />
           </apis>
   </service>
 </rsd>
